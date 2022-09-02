@@ -1,0 +1,39 @@
+head
+{
+  background-color:antiquewhite;
+}
+
+body
+{
+  background-color:antiquewhite;
+}
+
+.WebcamView
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 300px;
+}
+
+button
+{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   background-color:gold;
+}
+
+#captured_image
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 300px;
+}
+
+h1
+{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: large;
+   letter-spacing: 10px;
+}
+
+
+
